@@ -52,3 +52,8 @@ Failing to follow the community guidelines as described in this document carries
 * Tim Kadlec - @tkadlec
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+Our Slack avatar uses a combination of these fine icons from (The Noun Project)[http://thenounproject]:
+[Burger by Stolkamaker](https://thenounproject.com/search/?q=fast+food&i=98458)
+[Drink by Thibault Geffoy](https://thenounproject.com/term/drink/4573/)
+[Lightning Bolt by Christopher Reyes](https://thenounproject.com/search/?q=lightning+bolt&i=11769)
